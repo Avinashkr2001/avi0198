@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://instagram.com/__kr_avinash_____06?igshid=ZDdkNTZiNTM=
 <!-- Add your social media links here -->
 </p>
 
