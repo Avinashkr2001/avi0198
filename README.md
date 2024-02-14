@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate frontend developer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer GIF" width="300" height="200"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
