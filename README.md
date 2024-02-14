@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   </a>
+  <!-- Add more developer stickers here -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
